@@ -1,0 +1,1 @@
+La base de datos de sqlite no tiene la FK bien creada
